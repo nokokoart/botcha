@@ -1,5 +1,5 @@
 window.apiConfig = {
-    apiKey: "Bearer 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",
+    apiKey: "Bearer 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",
     referer: "https://nokokoart.com",
     title: "Nokoko Art",
     apiUrl: "https://openrouter.ai/api/v1/chat/completions"
